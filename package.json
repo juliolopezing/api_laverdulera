@@ -32,7 +32,7 @@
     "mssql": "^5.1.0",
     "multer": "^1.4.2",
     "mysql": "^2.17.1",
-    "node-forge": "^0.9.1",
+    "node-forge": "^1.0.0",
     "node-jre": "^0.2.3",
     "node-signpdf": "^1.0.2",
     "node-tesseract-ocr": "^1.0.0",
